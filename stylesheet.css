@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(50, 49, 49); 
+}
+
+h1 {
+    color:rgb(208, 160, 254);
+
+}
+
+h2, h3 {
+    color:rgb(47, 174, 209)
+}
+
+img {
+    float: left;
+    max-width: 120px;
+    height: auto;
+    margin-right: 12px;
+}
+
+p {
+    color:aquamarine
+}
+
+a {
+    color:aquamarine
+}
+
+div {
+    margin:auto;
+  }
+
